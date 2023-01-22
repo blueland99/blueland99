@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b0c4de&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yuhyeon's%20GitHub&descAlignY=51&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b0c4de&height=250&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yuhyeon's%20GitHub&descAlignY=54&descAlign=62" />
 
 <h3>🛠 Language and Tools ⌨</h3><br>
 
